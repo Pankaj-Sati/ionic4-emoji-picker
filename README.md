@@ -30,7 +30,7 @@ Note:`To avoid loading all the emojies again and again, don't use *ngIf to show/
 
 Chat style emoji picker example: 
 Inside your .html file
-` <ion-footer>
+```html<ion-footer>
 
   <ion-row class="input-position">
     <ion-col size="1">
@@ -49,7 +49,8 @@ Inside your .html file
     <emoji-picker (onEmojiSelect)="addEmoji($event)"></emoji-picker>
   </div>
 
-</ion-footer>`
+</ion-footer>
+```
 
 In your .ts file
 ` 
