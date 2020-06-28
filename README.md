@@ -6,6 +6,12 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `npm i ionic4-emoji-picker --save` to install this library. 
 
+## Features
+
+ 1. Slider like interface (Like WhatsApp & any other chat app)
+ 2. Modal Support. Open Emoji Picker in a modal
+ 3. Easy styling
+
 ## Usage
 
 After installing this package with `npm i ionic4-emoji-picker --save`, import the Ionic4EmojiPickerModule in your module.
